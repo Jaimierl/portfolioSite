@@ -4,7 +4,7 @@ import Nav from 'react-bootstrap/Nav'
 import { LinkContainer } from "react-router-bootstrap";
 
 class Header extends Component {
-  titles = ["Jae Writes Code"];
+  titles = [];
 
   constructor() {
     super();
@@ -67,7 +67,7 @@ class Header extends Component {
               uncheckedIcon={
                 <span
                   className="iconify"
-                  data-icon="twemoji:owl"
+                  data-icon="noto:crescent-moon"
                   data-inline="false"
                   style={{
                     display: "block",
