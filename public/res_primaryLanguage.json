@@ -11,38 +11,36 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Meditation WebApp",
+      "startDate": "2021",
+      "description": "The most expanded application I have had the opportunity to work with. Application greets user by name and allows the user to make some choices to curate a meditation for themselves.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/Chillax.png"
       ],
-      "url": "",
+      "url": "https://code-201n23.github.io/meditation-webapp/",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
         }
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "title": "Sales Page",
+      "startDate": "2021",
+      "description": "Site that allows the user to easily view their sales for a product and allows the user to add more information to be recorded by the site.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/SalesPage.png"
       ],
-      "url": "https://github.com",
+      "url": "https://jaimierl.github.io/cookie-stand/sales.html",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -55,63 +53,41 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "Coming Soon - Code 301 Capstone Project",
+      "startDate": "2021",
+      "description": "Project that encapsulates front-end and back-end applications",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/BannerCropped.jpg"
       ],
-      "url": "https://github.com",
+      "url": "",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-original",
+          "name": "React"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain"
         }
       ]
     }
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
+      "company": "Tec Systems",
+      "title": "Accounts Manager & Project Manager",
+      "years": "2.2017 - present",
       "mainTech": [
-        "Angular 8/9/10"
+        "AutoCad"
       ],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
-      ]
-    },
-    {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": [
-        "Angular 7/8"
-      ],
-      "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "AutoCad",
+        "Bim360",
+        "Procore"
       ]
     }
   ]
