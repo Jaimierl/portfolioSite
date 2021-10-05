@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Switch from "react-switch";
 import Nav from 'react-bootstrap/Nav'
 import { LinkContainer } from "react-router-bootstrap";
+import background from "../backgroundPhoto/Background.jpg";
 
 class Header extends Component {
   titles = [];
@@ -37,8 +38,8 @@ class Header extends Component {
 
     return (
 
-      <header id="home" style={{ height: window.innerHeight - 100, display: 'block' }}>
-        {/* <div style={{ backgroundImage: "url(./images/Background.jpg)" }}> */}
+      <header id="home" style={{ height: window.innerHeight - 100, display: 'block', backgroundImage: `url(${background})` }}>
+
         <Nav activeKey="/home" fill style={{ position: 'absolute', top: 10, right: 10 }}>
           <Nav.Item>
             <LinkContainer to="/">
