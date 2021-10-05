@@ -13,7 +13,7 @@ body[data-theme="dark"] {
    .header-icon {
       color: #3C342C;
       opacity: 0.8;
-      color: #e9a1cd;
+      color: #d8d8d6;
    }
 
    .slider-image {
@@ -69,18 +69,18 @@ body[data-theme="dark"] {
 
    #resume {
       filter: brightness(80%);
-      background: #5b5b5b;
+      background: #191919;
       .section-title {
          color: white !important;
       }
 
       .experience-badge {
-         background: #919191 !important;
+         background: black !important;
          color: white;
       }
 
       .main-badge {
-         background: #919191 !important;
+         background: black !important;
       }
 
       .vertical-timeline-element-date {
@@ -88,7 +88,7 @@ body[data-theme="dark"] {
       }
 
       .vertical-timeline-element-icon {
-         background: #919191 !important;
+         background: black !important;
       }
       @media only screen and (max-width: 1169px) { 
          .vertical-timeline-element-date {
