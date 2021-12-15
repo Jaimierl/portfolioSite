@@ -11,6 +11,29 @@
   },
   "projects": [
     {
+      "title": "Calendar Carousel",
+      "startDate": "2021",
+      "description": "Site that uses REST Applications, Google Auth and Google Calendar API, and custom designed time tracker for task organization.",
+      "images": [
+        "images/CalendarApp.png"
+      ],
+      "url": "https://calendar-carousel.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },        
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain"
+        }
+        {
+          "name": "Heroku",
+          "class": "devicon-heroku-original"
+        }
+      ]
+    },
+    {
       "title": "Meditation WebApp",
       "startDate": "2021",
       "description": "The most expanded application I have had the opportunity to work with. Application greets user by name and allows the user to make some choices to curate a meditation for themselves.",
@@ -49,29 +72,6 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
-        }
-      ]
-    },
-    {
-      "title": "Calendar Carousel",
-      "startDate": "2021",
-      "description": "Site that uses REST Applications, Google Auth and Google Calendar API, and custom designed time tracker for task organization.",
-      "images": [
-        "images/CalendarApp.png"
-      ],
-      "url": "https://calendar-carousel.netlify.app/",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },        
-        {
-          "name": "MongoDB",
-          "class": "devicon-mongodb-plain"
-        }
-        {
-          "name": "Heroku",
-          "class": "devicon-heroku-original"
         }
       ]
     }
