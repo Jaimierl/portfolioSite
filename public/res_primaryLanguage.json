@@ -53,25 +53,25 @@
       ]
     },
     {
-      "title": "Coming Soon - Code 301 Capstone Project",
+      "title": "Calendar Carousel",
       "startDate": "2021",
-      "description": "Project that encapsulates front-end and back-end applications",
+      "description": "Site that uses REST Applications, Google Auth and Google Calendar API, and custom designed time tracker for task organization.",
       "images": [
-        "images/BannerCropped.jpg"
+        "images/CalendarApp.png"
       ],
-      "url": "",
+      "url": "https://calendar-carousel.netlify.app/",
       "technologies": [
         {
           "class": "devicon-react-original",
           "name": "React"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain"
-        },
+        },        
         {
           "name": "MongoDB",
           "class": "devicon-mongodb-plain"
+        }
+        {
+          "name": "Heroku",
+          "class": "devicon-heroku-original"
         }
       ]
     }
@@ -88,6 +88,7 @@
         "AutoCad",
         "Bim360",
         "Procore"
+        "ConnectWise"
       ]
     }
   ]
